@@ -73,6 +73,9 @@ The website serves multiple purposes:
 More screenshots available here:  
 [View all screenshots](screenshots/)
 
+Read Design Documentation for detailed insights
+[View Design Documentation](screenshots/DesignDocumentation.pdf)
+
 ---
 
 ## Future Improvements
@@ -92,8 +95,6 @@ Full-Stack Developer | Web & Mobile Development
 
 Email: thureinrichard3@gmail.com
 
-Read Design Documentation for detailed insights
-[View Design Documentation](screenshots/DesignDocumentation.pdf)
 
 ---
 
