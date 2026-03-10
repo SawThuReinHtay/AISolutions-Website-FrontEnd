@@ -1,7 +1,7 @@
 #Frontend Code of Full Stack Dynamic Website (AI Solutions Website)
 
-<p align="center">
-  <img src="https://i.ibb.co/J20Tf76/AIsolutions-Logo.png" width="300">
+<p align="center" style="background-color:white; margin:0; height:100vh; display:flex; justify-content:center; align-items:center;">
+  <img src="https://i.ibb.co/J20Tf76/AIsolutions-Logo.png" width="300" alt="AI Solutions Logo">
 </p>
 
 A full-stack dynamic website developed for the fictional company **AI Solutions**, designed to showcase AI services, industry expertise, blogs, and customer interactions.  
