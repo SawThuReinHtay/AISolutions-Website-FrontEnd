@@ -75,6 +75,7 @@ More screenshots available here:
 
 Read Design Documentation for detailed insights
 [View Design Documentation](screenshots/DesignDocumentation.pdf)
+[Download Design Documentation](https://github.com/SawThuReinHtay/AISolutions-Website-FrontEnd/blob/main/screenshots/DesignDocumentation.pdf)
 
 ---
 
