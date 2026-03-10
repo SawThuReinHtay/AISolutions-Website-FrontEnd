@@ -59,9 +59,15 @@ The website serves multiple purposes:
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="250">
-  <img src="screenshots/adminpanel.png" width="250">
-  <img src="screenshots/AIChatbot.png" width="250">
+  <img src="screenshots/home.png" width="400">
+</p>
+
+<p align="center">
+  <img src="screenshots/adminpanel.png" width="400">
+</p>
+
+<p align="center">
+  <img src="screenshots/AIChatbot.png" width="400">
 </p>
 
 More screenshots available here:  
