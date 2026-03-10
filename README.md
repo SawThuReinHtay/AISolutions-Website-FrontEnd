@@ -1,50 +1,74 @@
-# React + TypeScript + Vite
+#Frontend Code of Full Stack Dynamic Website (AI Solutions Website)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://i.ibb.co/J20Tf76/AIsolutions-Logo.png" width="300">
+</p>
 
-Currently, two official plugins are available:
+A full-stack dynamic website developed for the fictional company **AI Solutions**, designed to showcase AI services, industry expertise, blogs, and customer interactions.  
+The platform includes an AI chatbot, an admin management system, and database-driven content management.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project demonstrates the development of a modern web application using **React, TypeScript, Flask, and MySQL**, along with structured software development methodology and extensive testing.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Project Overview
 
-- Configure the top-level `parserOptions` property like this:
+The website serves multiple purposes:
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+- Showcase company services, expertise, and vision  
+- Allow potential clients to contact the company  
+- Provide blogs and information pages  
+- Display industry reviews and image gallery content  
+- Allow administrators to manage content through an admin panel  
+- Provide users with an AI-powered chatbot assistant
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+---
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+## Key Features
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+### User Features
+
+- Modern, responsive website interface  
+- Interactive navigation with search functionality  
+- AI chatbot for company-related questions  
+- Contact form with confirmation emails  
+- Dynamic blogs and solutions pages  
+- Industry reviews and image gallery  
+- Mobile, tablet, and desktop responsiveness  
+
+### Admin Panel Features
+
+- Authentication: secure login, role-based access (Admin / Staff), logout  
+- Contact query management: view, update status, delete, filter, search  
+- User management: add, edit, delete, filter, search  
+- Blog management: create, edit, delete blogs with images  
+- Solutions management: add, edit, delete solutions  
+- Gallery management: upload, edit, delete images  
+- Reviews management: add, edit, delete reviews, automatic category handling  
+
+---
+
+## Technology Stack
+
+- **Frontend:** React, TypeScript, Tailwind CSS, React Router  
+- **Backend:** Python, Flask  
+- **Database:** MySQL  
+
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" width="250">
+  <img src="screenshots/adminpanel.png" width="250">
+  <img src="screenshots/AIChatbot.png" width="250">
+</p>
+
+More screenshots available here:  
+[View all screenshots](screenshots/)
+
+Read Design Documentation for detailed insights
+[View Design Documentation](screenshots/DesignDocumentation.pdf)
+
+---
+
