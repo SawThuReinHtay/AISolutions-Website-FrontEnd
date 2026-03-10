@@ -63,11 +63,11 @@ The website serves multiple purposes:
 </p>
 
 <p align="center">
-  <img src="screenshots/adminpanel.png" width="400">
+  <img src="screenshots/adminpanel.png" width="800">
 </p>
 
 <p align="center">
-  <img src="screenshots/AIChatbot.png" width="400">
+  <img src="screenshots/AIChatbot.png" width="800">
 </p>
 
 More screenshots available here:  
